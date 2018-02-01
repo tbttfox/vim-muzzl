@@ -42,6 +42,7 @@ highlight ColorColumn                guibg=#a40000
 highlight WildMenu     guifg=#2e3436 guibg=#fce94f
 highlight PMenu        guifg=#2e3436 guibg=#ad7fa8
 highlight Folded       guibg=#505050
+highlight CursorColumn guibg=#282828
 
 " Console
 highlight Normal     ctermfg=LightGrey   ctermbg=Black
