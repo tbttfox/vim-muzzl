@@ -40,7 +40,7 @@ highlight DiffText                   guibg=#a40000
 highlight Todo         guifg=#204a87 guibg=#fce94f
 highlight ColorColumn                guibg=#a40000
 highlight WildMenu     guifg=#2e3436 guibg=#fce94f
-highlight PMenu        guifg=#2e3436 guibg=#ad7fa8
+highlight PMenu        guifg=#2e3436 guibg=#16191a
 highlight Folded       guibg=#505050
 highlight CursorColumn guibg=#282828
 
